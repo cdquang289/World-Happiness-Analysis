@@ -54,21 +54,21 @@ This was broken down into six research questions:
 - **North America & ANZ (7.18)** and **Western Europe (6.86)** are the happiest regions; **Sub-Saharan Africa (4.26)** and **South Asia (4.47)** are the lowest, a gap of almost 3 points.
 - Top countries (average 2015–2023): Finland (7.66), Denmark (7.58), Iceland (7.52). Bottom: Afghanistan (2.99), Central African Republic (3.20), South Sudan (3.27).
 
-![Happiness by region](figures/happiness_by_region.png)
+![Happiness by region](main/happiness_by_region.png)
 
 ### GDP is the strongest single driver, but not the only one
 - Correlation with happiness: **GDP 0.74**, life expectancy 0.70, social support 0.66, freedom 0.57, corruption perception 0.44, generosity 0.10.
 - Average happiness rises steadily across GDP quartiles, from **4.36 (lowest) to 6.50 (highest), a 2.14-point gap**.
 - GDP alone explains **54.7%** of the variance in happiness (R² = 0.547).
 
-![GDP vs happiness](figures/gdp_vs_happiness.png)
+![GDP vs happiness](main/gdp_vs_happiness.png)
 
 ### Inflation has a negative but weak link to happiness
 - Headline inflation correlation with happiness: **−0.20** (Core CPI: −0.23; Producer prices: −0.08). Excluding extreme values (> 50%) gives −0.24 (n = 1,179), so the result is not driven by outliers.
 - The relationship is negative in **every** income group, and strongest in the **highest-income quartile (−0.48)**, compared with −0.15 (low), −0.26 (medium-low) and −0.14 (medium-high).
 - Inflation is highest in low-income countries (average 11.9% vs 4.4–7.0% elsewhere), yet happiness there is more strongly tied to other factors.
 
-![Inflation vs happiness](figures/inflation_vs_happiness.png)
+![Inflation vs happiness](main/inflation_vs_happiness.png)
 
 ### Inflation adds little once other factors are included
 
